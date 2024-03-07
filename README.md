@@ -31,3 +31,9 @@
 
 #### Architecture:
 ![ViT-4](./assets/ViT-4.png)
+
+---
+
+## Sample Prediction:
+
+<img src="./assets/prediction-by-ViT.png" height="400" width="400"/>
